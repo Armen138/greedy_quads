@@ -11,3 +11,5 @@ Some learning resources that I've consulted:
 For the sake of simplicity, this code simply generates a 2d field of quads ("voxels") of 6x6, placing a voxel at each grid coordinate with a chance of 75%. Hitting space will trigger the "greedy" algorithm that attempts to build an optimal set of quads for this "mesh". See console output for timing information.
 
 While there is some left to improve, the number of quads is consistently reduced by a significant number, and performance is good.
+
+demo - https://armen138.github.io/greedy_quads/
